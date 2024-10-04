@@ -1,6 +1,10 @@
 from totos.get_coord import get_coordinates
 from totos.compute_distance import compute_distance
 
+"""
+Main script
+"""
+
 if __name__ == '__main__':
     first_place = input("What's your first address ?")
     second_place = input("What's your second address ?")
